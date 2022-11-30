@@ -10,4 +10,4 @@
 не исключать файлы отвечающие шаблоу example_override.tf
 включить файлы tfplan, чтобы игнорировать вывод команды: terraform plan -out=tfplan
 игнорировать файлы конфигурации CLI .terraformrc и terraform.rc
-
+добавлена ветка fix
